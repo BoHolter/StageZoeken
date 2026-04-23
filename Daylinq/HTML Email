@@ -1,0 +1,22 @@
+<!DOCTYPE html> 
+
+<html lang="en" xmlns="https://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<p style="font-family: 'Roboto', 'Arial', sans-serif; font-size: 16px; font-weight: 400;">Lorem ipsum dolor sit amet</p>
+<!-- Hidden Preheader Text →<div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family:sans-serif;"> Get 10% off. Use offer code JUNE10 for 10% off or show this email in-restaurant.      </div><!-- Hidden Preheader Text - END -->
+
+@media (prefers-color-scheme: dark) {
+  /* Styles for dark mode mode */
+  p {
+    color: #FFFFFF !important;
+  }
+  h1 {
+    color: #EFEFEF !important;
+  }
+}
+
+
+
+
+
+
+<head>
